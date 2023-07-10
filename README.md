@@ -1,10 +1,10 @@
-https://contentstatic.techgig.com/photo/82905582/5-must-have-python-developer-skills-to-be-successful.jpg?91397
+[![MasterHead](https://contentstatic.techgig.com/photo/82905582/5-must-have-python-developer-skills-to-be-successful.jpg?91397)]
 <h1 align="center">Hi 👋, I'm Priya</h1>
 
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priya60796&label=Profile%20views&color=0e75b6&style=flat" alt="priya60796" /> </p>
+<p align="left"> <img src="httabel=Profile%20views&color=0e75b6&style=flat" alt="priya60796" /> </p>
 
 - 💬 About Me **I have completed Bachelor of Technology**
 
