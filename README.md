@@ -1,4 +1,4 @@
-
+https://contentstatic.techgig.com/photo/82905582/5-must-have-python-developer-skills-to-be-successful.jpg?91397
 <h1 align="center">Hi 👋, I'm Priya</h1>
 
 <h3 align="center">A passionate Python developer from India</h3>
