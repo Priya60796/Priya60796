@@ -1,4 +1,4 @@
-[![MasterHead](https://https://img.freepik.com/premium-photo/python-programming-code-abstract-technology-background_272306-146.jpg?size=626&ext=jpg&ga=GA1.1.232651849.1688125561&semt=ais...)]
+
 <h1 align="center">Hi 👋, I'm Priya</h1>
 
 <h3 align="center">A passionate Python developer from India</h3>
